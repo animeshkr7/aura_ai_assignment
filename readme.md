@@ -25,7 +25,7 @@ WEAVIATE_CLUSTER =  ''
 HUGGINGFACE_TOKEN = ''
 
 for this assignment i have uploaded the link on google drive you can copy paste it( I will delete after 10-15 days):
-env link : 
+env link :  https://drive.google.com/file/d/13b2htb0z9QNKk6f5XXKHjEVnxwvWeA8-/view?usp=sharing
 
 - run backend and wait for it to load
 
